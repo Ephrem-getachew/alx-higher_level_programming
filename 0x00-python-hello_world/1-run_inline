@@ -3,3 +3,4 @@ python3 <<< $PYCODE
 jr
 jnd
 jrd
+jst
